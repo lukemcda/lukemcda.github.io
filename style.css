@@ -16,7 +16,10 @@ h2
 
 h3
 {
-	font-size: 10;
+	 font-family:'Inconsolata', monospace;
+	 font-size: 20px;
+	 color: #11EC06;
+
 }
 br {
    display: block;
@@ -60,7 +63,7 @@ br {
 #midTop
 {
 	width: 100%;
-	height: 160px;
+	height: 120px;
 	background:url(images/binarypic14_sm.jpg);
 	float:left;
 	opacity: 0.85;
@@ -75,40 +78,40 @@ br {
 #midBottom
 {
 	width: 100%;
-	height: 160px;
+	height: 100px;
 	background:url(images/binarypic15_sm.jpg);
 	float:left;
 	opacity: 0.85;
 }
 #bot1
 {
-	height:65px;
+	height:95px;
 	width: 25%;
-	background-color: red;
+	background:url(images/binarypic20_sm.jpg);
 	float: left;
 	opacity: 0.85;
 }
 #bot2
 {
-	height:65px;
+	height:95px;
 	width: 25%;
-	background-color:blue;
+	background:url(images/binarypic21_sm.jpg);
 	float:left;
 	opacity: 0.85;
 }
 #bot3
 {
-	height:65px;
+	height:95px;
 	width: 25%;
-	background-color:red;
+	background:url(images/binarypic22_sm.jpg);
 	float:left;
 	opacity: 0.85;
 }
 #bot4
 {
-	height:65px;
+	height:95px;
 	width: 25%;
-	background-color:blue;
+	background:url(images/binarypic23_sm.jpg);
 	float:left;
 	opacity: 0.85;
 }
