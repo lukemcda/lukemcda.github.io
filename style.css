@@ -17,11 +17,16 @@ h2
 h3
 {
 	 font-family:'Inconsolata', monospace;
-	 font-size: 20px;
+	 font-size: 30px;
 	 color: #11EC06;
 
 }
-
+h4
+{
+	 font-family:'Inconsolata', monospace;
+	 font-size: 20px;
+	 color: #11EC06;
+}
 #centerIt
 {
 	margin-left: 200px;
