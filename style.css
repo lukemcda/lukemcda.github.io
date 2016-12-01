@@ -118,3 +118,19 @@ h4
 	float:left;
 	opacity: 0.85;
 }
+
+@media screen and (max-width:340px)
+{
+  /* CSS for screens that are 340 pixels or less will be put in this section */	
+	#top1{height:200px;}
+	#top2{height:200px;}
+	#top3{height:200px;}
+
+	#bot1{height:200px;}
+	#bot2{height:200px;}
+	#bot3{height:200px;}
+	#bot4{height:200px;}
+  
+}
+
+
