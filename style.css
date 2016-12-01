@@ -121,15 +121,15 @@ h4
 
 @media screen and (max-width:340px)
 {
-  /* CSS for screens that are 340 pixels or less will be put in this section */	
-	#top1{height:120px;width:60px;float: left; text-align: center;}
-	#top2{height:120px;width:60px;float: left; text-align: center;}
-	#top3{height:120px;width:60px;float: left; text-align: center;}
-
-	#bot1{height:100px;}
-	#bot2{height:100px;}
-	#bot3{height:100px;}
-	#bot4{height:100px;}
+  /* CSS for screens that ae 340 pixels or less will be put in this section */	
+	#top1{height:80px;width:33%;float: left; display:inline-block;}
+	#top2{height:80px;width:33%;float: left; display:inline-block;}
+	#top3{height:80px;width:33%;float: left; display:inline-block;}
+	#centerIt{margin-left:40px;}
+	#bot1{height:50px;}
+	#bot2{height:50px;}
+	#bot3{height:50px;}
+	#bot4{height:50px;}
   
 }
 
