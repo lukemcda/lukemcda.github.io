@@ -1,3 +1,3 @@
-Here is a list of Proffesional websites I have created:
-https://www.rondoutbank.com/
+Here is a list of professional websites I have created:<br>
+https://www.rondoutbank.com/<br>
 https://www.rvr.bank/
